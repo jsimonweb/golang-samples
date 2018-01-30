@@ -2,6 +2,9 @@
 
 This repository contains sample code for the [Go Getting Started on Google Cloud Platform][gogs]
 
+[![Open in Cloud Shell](http://gstatic.com/cloudssh/images/open-btn.png)](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/GoogleCloudPlatform/golang-samples.git&tutorial=getting-started/README.md)
+
+
 Please refer to the guide for full instructions on how to run the samples.
 
 ## Checking out the code
